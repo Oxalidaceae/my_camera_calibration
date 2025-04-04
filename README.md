@@ -39,9 +39,12 @@ It consists of two main scripts:
 ## How to Run
 
 ### Step 1: Run calibration from a video
-python camera_calibration.py
+Run python camera_calibration.py
 
 ### Step 2: Apply distortion correction
-python distortion_correction.py
+Run python distortion_correction.py
+
+### Step 3: Compare the differences before and after
+Simple!!!
 
 Reference: https://github.com/mint-lab/3dv_tutorial
