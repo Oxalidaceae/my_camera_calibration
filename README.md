@@ -23,9 +23,11 @@ It consists of two main scripts:
 * The number of selected images = 20
 * RMS error = 1.2178005946152135
 * Camera matrix (K) =
+```
 [[590.46512818   0.         641.58986121]
  [  0.         590.38915726 365.10676819]
  [  0.           0.           1.        ]]
+```
 * Distortion coefficient (k1, k2, p1, p2, k3, ...) = [ 0.00304039 -0.00735964  0.00019495  0.00068062  0.00116275]
 
 > The principal point (cx, cy) ≈ (641.6, 365.1) is close to the center of the 1280×720 frame.  
